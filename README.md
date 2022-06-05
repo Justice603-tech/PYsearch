@@ -1,6 +1,6 @@
 # PYsearch
 A python search engine
-The python script sends an inut to the user.
+The python script sends an input to the user.
 when the `user` types in the search query...the script opens up a url ex: `http://www.google.com/search?q=` following the input `variable`
 and **BOOM!** search engine.
 now i know that this is not a real search engine..but hey at least its cool.
